@@ -1,3 +1,4 @@
+# This add-on was based on: https://github.com/jquillan/vse_masking_tools
 bl_info = {
     "name": "VSE to Camera Background",
     "author": "John C. Quillan, tintwotin",
